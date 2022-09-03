@@ -1,2 +1,2 @@
 # Wanderlust
-Travel Destination Recommender System 
+Frontend of Travel Destination Recommender System 
